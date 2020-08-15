@@ -7,7 +7,7 @@ body {
     color: #222222;
     background-color: #f2f4f6;
 /*     background-image: url("img/hero-bg.jpg"); */
-    background-image: url("img/wallpaper-forest.jpg"); 
+    background-image: url("img/black-forest.jpg"); 
     background-repeat: no-repeat;
     background-position: top center;
   }
@@ -95,6 +95,7 @@ body {
     font-size: 28px;
     line-height: 40px;
     font-weight: 500;
+    margin-top: 40px;
   }
   
   .intro p {
